@@ -450,15 +450,15 @@ a {
   color: #3B5998;
 }
 .social-icons .instagram:after {
-  content: "\f16d";
+  content: "\f083";
 }
 .social-icons .instagram:hover {
   color: #3B5998;
 }
-.social-icons .telegram:after {
-  content: "\f1d8";
+.social-icons .github:after {
+  content: "\f09b";
 }
-.social-icons .telegram:hover {
+.social-icons .github:hover {
   color: #3B5998;
 }
 .social-icons .twitter:after {
