@@ -652,7 +652,7 @@ label.error {
 }
 .info-holder .title {
   font-size: 19px;
-  color: #363636;
+  color: #FFFFFF;
   font-weight: bold;
 }
 .info-holder .title i {
@@ -661,6 +661,7 @@ label.error {
 .info-holder .text {
   font-size: 15px;
   font-weight: 400;
+  color: #FFFFFF;
 }
 .info-holder {
   margin-top: 40px;
