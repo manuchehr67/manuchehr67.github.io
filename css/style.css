@@ -485,10 +485,10 @@ a {
 .social-icons .google-plus:hover {
   color: #D03924;
 }
-.social-icons .researchgate:after {
+.social-icons .fab fa-researchgate:after {
   content: "";
 }
-.social-icons .researchgate:hover {
+.social-icons .fab fa-researchgate:hover {
   color: #CD2027;
 }
 .social-icons .rss:after {
