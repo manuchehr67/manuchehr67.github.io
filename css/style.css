@@ -486,7 +486,7 @@ a {
   color: #D03924;
 }
 .social-icons .fab:after {
-  content: "";
+  content: "RG";
 }
 .social-icons .fab:hover {
   color: #363636;
