@@ -486,10 +486,10 @@ a {
   color: #D03924;
 }
 .social-icons .fab:after {
-  content: "#xf4f8";
+  content: "&#xf4f8";
 }
 .social-icons .fab:hover {
-  color: #xf4f8;
+  color: #363636;
 }
 .social-icons .rss:after {
   content: "";
