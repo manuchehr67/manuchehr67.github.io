@@ -486,7 +486,7 @@ a {
   color: #D03924;
 }
 .social-icons .fab fa-researchgate:after {
-  content: "";
+  content: "#xf4f8";
 }
 .social-icons .fab fa-researchgate:hover {
   color: #xf4f8;
